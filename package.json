@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "concurrently": "^3.4.0",
+    "nodemon": "^1.11.0",
     "rimraf": "^2.6.1"
   },
   "scripts": {
